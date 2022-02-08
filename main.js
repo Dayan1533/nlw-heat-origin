@@ -3,7 +3,7 @@ const linksSocialMedia = {
   youtube: "UCQ1ZcoxgH_RCfK_kCH7l2hw",
   facebook: "dayan.ramos.33",
   instagram: "dayanramos55",
-  twitter: "jakelinytec"
+  twitter: "neymarjr"
 }
 
 function changeSocialMediaLinks() {
