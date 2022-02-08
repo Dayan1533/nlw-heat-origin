@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: "Dayan1533",
-  youtube: "UCQ1ZcoxgH_RCfK_kCH7l2hw",
+  youtube: "/channel/UCQ1ZcoxgH_RCfK_kCH7l2hw",
   facebook: "dayan.ramos.33",
   instagram: "dayanramos55",
   twitter: "neymarjr"
