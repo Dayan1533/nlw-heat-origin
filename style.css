@@ -4,17 +4,17 @@
 }
 html,
 body {
-  height: 100%;
-  background-color: rgb(8, 8, 8);
-}
-body {
   --black: hsl(240, 6%, 13%);
   --gray: hsl(240, 9%, 89%);
 
-  display: grid;
-  place-items: center; /*Colocar itens centralizado*/
+  height: 100%;
+  background-color: rgb(8, 8, 8);
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
+}
+body {
+  display: grid;
+  place-items: center; /*Colocar itens centralizado*/
 }
 main {
   background: url(images/background.svg);
