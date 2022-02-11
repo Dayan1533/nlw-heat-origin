@@ -1,9 +1,9 @@
 const linksSocialMedia = {
   github: "Dayan1533",
-  youtube: "/channel/UCQ1ZcoxgH_RCfK_kCH7l2hw",
+  youtube: "UCQ1ZcoxgH_RCfK_kCH7l2hw",
   facebook: "dayan.ramos.33",
   instagram: "dayanramos55",
-  twitter: "neymarjr"
+  twitter: "jakelinytec"
 }
 
 function changeSocialMediaLinks() {
@@ -19,7 +19,7 @@ changeSocialMediaLinks()
 
 function getGitHubProfileInfos() {
   const url = `https://api.github.com/users/${linksSocialMedia.github}`
-// Diz para o fetch que a resposta é .json
+// Diz para o fetch que a resposta é json.
   fetch(url)
     .then(response => response.json())
     .then(data => {

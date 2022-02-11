@@ -17,9 +17,10 @@ body {
   place-items: center; /*Colocar itens centralizado*/
 }
 main {
-  background: url(images/background.svg);
-  width: 375px;
-  height: 812px;
+  background: url(images/background.svg) no-repeat center/cover;
+  width: 100vh;
+  min-height: 812px;
+  height: 100vh;
 }
 .container {
   max-width: 250px;
