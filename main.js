@@ -1,5 +1,5 @@
 const linksSocialMedia = {
-  github: "Dayan1533",
+  github: "dayangomes",
   youtube: "UCQ1ZcoxgH_RCfK_kCH7l2hw",
   facebook: "dayan.ramos.33",
   instagram: "dayanramos55",
